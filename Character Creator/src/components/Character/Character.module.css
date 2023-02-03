@@ -1,0 +1,7 @@
+.character {
+  /* Fill the available container height */
+  min-height: 500px;
+  max-height: 500px;
+  position: fixed;
+  left: 65%;
+}
